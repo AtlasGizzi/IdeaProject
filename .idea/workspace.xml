@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afc55daa-2592-43ea-8d92-0e9ff6ff6fc9" name="Changes" comment="">
+    <list default="true" id="afc55daa-2592-43ea-8d92-0e9ff6ff6fc9" name="Changes" comment="$ ssh-keygen -t ed25519 -C &quot;amariegizzi@gmail.com&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/Styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -50,6 +52,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yorkmacbook071/IdeaProjects/firstproject",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="$ ssh-keygen -t ed25519 -C &quot;amariegizzi@gmail.com&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="$ ssh-keygen -t ed25519 -C &quot;amariegizzi@gmail.com&quot;" />
   </component>
 </project>
